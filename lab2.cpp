@@ -8,7 +8,6 @@
 
     int main() {
         double length, width, perimeter;
-        
         cout << "This application will calculate the perimeter of a rectangle." << endl;
         cout << "Please enter the length of the rectangle: ";
         cin >> length;
