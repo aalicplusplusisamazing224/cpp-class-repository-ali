@@ -39,6 +39,7 @@ int main() {
     else if (menuChoice == 3)
     {
         cout << "Exiting the program. Goodbye!" << endl;
+        return 0;
     }
     else
     {
