@@ -80,7 +80,6 @@ void vectorSolution() {
     std::cout << "\n";
 }
 
-
 /// @brief Calculate the average of an array of integers
 /// @param arr The array of integers
 /// @param size The size of the array
@@ -111,4 +110,3 @@ int findmin(const int arr[], int size) {
     }
     return min;
 }
-
