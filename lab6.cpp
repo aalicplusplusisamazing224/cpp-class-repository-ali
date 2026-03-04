@@ -80,6 +80,8 @@ void vectorSolution() {
     std::cout << "\n";
 }
 
+        /// Extra credit functions: 
+
 /// @brief Calculate the average of an array of integers
 /// @param arr The array of integers
 /// @param size The size of the array
