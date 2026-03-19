@@ -17,7 +17,7 @@ const int WITHDRAWAL = 2;
 const int CLOSE_OF_BUSINESS = 3;
 const int QUIT = 4;
 
-/// @brief Main function for the banking application
+/// @brief Main function for the banking application  with a simple menu-driven interface for user interaction.
 /// @return 0 if the program exits successfully
 int main()
 {
