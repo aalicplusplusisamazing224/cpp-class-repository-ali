@@ -10,9 +10,12 @@ using namespace std;
 @return 0 on sucess 
 
 int main() {
-    int stackInt = 10;
+    int stackInt = 10; 
+
     int* heapInt = new int(20);
+
     int *ptrToStack = &stackInt;
+    
     int &refToStack = stackInt;
 
     cout << "Stack Variable (stackInt): " << stackInt << endl; 
